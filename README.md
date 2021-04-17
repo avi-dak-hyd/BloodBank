@@ -36,7 +36,7 @@ pip install django-crispy-forms
 ```bash
 python manage.py runserver
 ```
-5. Open the following address in your browser
+6. Open the following address in your browser
 ```bash
 http://127.0.0.1:8000/
 ```
